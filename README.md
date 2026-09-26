@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gabriel
 
-<!--
-**gabba6/gabba6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Information Systems student at the University of Münster, Germany.**
 
-Here are some ideas to get you started:
+I build practical tools and apps with AI-assisted development workflows. I'm interested in how software, AI and automation can solve everyday problems and improve the way businesses work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How I work
+
+I turn ideas into requirements, guide coding agents with **Claude Code and Codex**, organise AI-assisted reviews, and test applications through hands-on use. Alongside these projects, I'm building my programming and software architecture foundations through my degree.
+
+- **Current focus:** agentic development workflows, automation and app development.
+- **Programming foundations:** Haskell, Java and Python from university coursework.
+- **Learning through projects:** understanding design decisions, testing behaviour and improving applications from feedback.
+
+### Featured project
+
+**[Agent Limit Watchdog](https://github.com/gabba6/agent-limit-watchdog)** — a macOS tool that monitors Claude Code and Codex usage limits, warns before limits are reached, and helps pause and resume supported sessions. Built with AI assistance using Python and SwiftUI, with documented limitations, automated tests and setup instructions.
+
+[Explore the project →](https://github.com/gabba6/agent-limit-watchdog#readme)
+
+### Let's connect
+
+I'm interested in exchanging ideas about useful software, practical AI applications and automation.
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-petrovi%C4%87-05aa11248/)
